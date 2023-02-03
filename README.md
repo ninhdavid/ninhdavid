@@ -1,5 +1,5 @@
 ###  WELCOME TO MY PAGE 👋👋👋
-My name is Ninh Nguyen. I am a web developer.<br>
+My name is Ninh Nguyen. I am a web developer.I’m currently learning ReactJS, Typescript<br>
 
 
 <!--

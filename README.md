@@ -1,4 +1,6 @@
-### Hi there 👋
+###  WELCOME TO MY PAGE 👋👋👋
+My name is Ninh Nguyen. I am a web developer.<br>
+
 
 <!--
 **ninhdavid/ninhdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📫 How to reach me: 
+
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ninhdavid)
+
+
+<a href="https://github.com/ninhdavid/port2023">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
+</a>   

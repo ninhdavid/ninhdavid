@@ -1,6 +1,6 @@
 ###  WELCOME TO MY PAGE 👋👋👋
-My name is Ninh Nguyen. I am a web developer.I’m currently learning ReactJS, Typescript<br>
-
+My name is Ninh Nguyen. I am a web developer. I’m currently learning ReactJS, NextJS, NodeJS, JavaScript, Typescript, <br>
+ 
 
 <!--
 **ninhdavid/ninhdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
